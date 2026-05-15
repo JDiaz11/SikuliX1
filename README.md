@@ -1,5 +1,11 @@
 <div align="center">
 
+<br>
+
+[![SikuliX](https://raw.githubusercontent.com/oculix-org/SikuliX1/master/Support/sikulix-red.png)](https://github.com/oculix-org/Oculix)
+
+<br>
+
 # SikuliX1
 
 ### *Historical SikuliX1 codebase — mirrored under oculix-org.*
